@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Miniprojet</string>
+    <string name="splashtext">Corona Application</string>
+    <string name="asma">By Asma Ben Amor</string>
+    <string name="sympt">La COVID-19 n’a pas les ‎mêmes effets en fonction des personnes.
+        La durée d’incubation du nouveau coronavirus,
+        càd le délai entre l’infection et l’apparition des premiers symptômes,
+        est d’environ 3 à 7 jours, selon les dernières publications de Santé Publique France.
+        Les symptômes principaux à surveiller sont : </string>
+    <string name="mains"> Lavez-vous les mains régulièrement ou utilisez une solution hydro-alcoolique.</string>
+    <string name="metre">Rester à distance de toute personne qui tousse ‎ou éternue</string>
+    <string name="home">Restez chez vous si vous n’etes pas obligés de sortire.</string>
+    <string name="bavette">Portez un masque chirurgical lorsque vous êtes en face d’une autre personne et lorsque vous devez sortir</string>
+    <string name="jour">Respecter une période d’isolement à domicile et des mesures de protection </string>
+    <string name="doct">Consultez un médecin si vous avez de la fièvre, ‎que vous toussez
+        et que vous avez des difficultés à ‎respirer. Prévenez le service concerné par ‎téléphone au préalable. ‎ ‎</string>
+    <string name="couvre">En cas de toux ou d’éternuement, couvrez-vous ‎la bouche et le nez avec le pli du coude ou avec un ‎mouchoir. ‎</string>
+    <string name="touchpas">Ne pas toucher ses yeux, son nez ou sa bouche</string>
+    <string name="rahma">Rahma Ben Abdallah</string>
+    <string name="marwa">Marwa Abderahmen</string>
+
+
+</resources>
